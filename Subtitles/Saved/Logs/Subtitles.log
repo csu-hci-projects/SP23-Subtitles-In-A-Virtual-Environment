@@ -1955,6 +1955,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.23-19.28.04:296][629]AssetCheck: New page: Asset Save: VRTemplateMap
 [2023.03.23-19.28.04:296][629]LogContentValidation: Display: Validating /Script/Engine.World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 [2023.03.23-19.30.17:543][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
 [2023.03.23-19.30.20:127][362]LogSlate: Window 'Save Content' being destroyed
@@ -2557,4 +2558,6 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.23-19.30.23:495][363]LogD3D12RHI: ~FD3D12DynamicRHI
 [2023.03.23-19.30.23:531][363]LogExit: Exiting.
 [2023.03.23-19.30.23:543][363]Log file closed, 03/23/23 13:30:23
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
