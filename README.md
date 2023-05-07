@@ -10,9 +10,11 @@ We conducted a study comparing three different subtitle presentation methods in 
 
 ## Demo Video
 
-Check out our project demo video on YouTube:
+Check out our project overview video on YouTube:
 
 [![Overview Video](http://img.youtube.com/vi/quvqHR_ua00/0.jpg)](https://www.youtube.com/watch?v=quvqHR_ua00)
+
+https://www.youtube.com/watch?v=quvqHR_ua00
 
 ## Subtitle Methods
 
