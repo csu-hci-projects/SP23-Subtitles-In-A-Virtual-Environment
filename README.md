@@ -12,7 +12,7 @@ We conducted a study comparing three different subtitle presentation methods in 
 
 Check out our project demo video on YouTube:
 
-<!-- [![Overview Video](http://img.youtube.com/vi/EXAMPLE_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=EXAMPLE_VIDEO_ID) -->
+[![Overview Video](http://img.youtube.com/vi/quvqHR_ua00/0.jpg)](https://www.youtube.com/watch?v=quvqHR_ua00)
 
 ## Subtitle Methods
 
