@@ -18,18 +18,18 @@ Check out our project demo video on YouTube:
 
 ### Method 1: Fixed Subtitles
 
-<!-- ![Static Subtitles](images/static_subtitles.png) -->
+![Scene1](https://user-images.githubusercontent.com/70228954/236703431-eeb30219-2a94-4edb-9a58-e77739fc72c1.png)
 
 This method of subtitles has the subtitles placed below the characters.
 
 ### Method 2: Character/Comic Subtitles
 
-<!-- ![Dynamic Subtitles](images/dynamic_subtitles.png) -->
+![Scene2](https://user-images.githubusercontent.com/70228954/236703438-2a7b66ce-7fe1-494b-879c-9e9fc2bf5e07.png)
 
 This method of subtitles adds a plane behind the subtitles and a portrait image of the speaking character.
 
 ### Method 3: Head Mounted Display Subtitles
 
-<!-- ![Follow-the-Gaze Subtitles](images/follow_the_gaze_subtitles.png) -->
+![Scene3](https://user-images.githubusercontent.com/70228954/236703451-3c61d5a8-c5cc-4a2b-840c-6ee66937f5ee.png)
 
 This style of subtitle is fixed to the Head Mounted Display. The subtitles are always visible as the viewer looks in any direction.
