@@ -6,7 +6,7 @@ This project explores the design, implementation, and evaluation of various subt
 
 We conducted a study comparing three different subtitle presentation methods in VR.
 
-<!-- **A detailed PDF report of our results is available [here](report.pdf).** -->
+A detailed PDF report of our results is available [here](Subtitles_in_a_Virtual_Environment_Final_Report.pdf).
 
 ## Demo Video
 
